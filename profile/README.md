@@ -1,6 +1,6 @@
 Hello,
 
-I am writing to introduce **CLEVER°FLOW**, an Agentic, Event-driven Platform for the Automation of Operational Documents.
+I am writing to introduce **CLEVER°FLOW**, an Agentic, Event-driven Platform for automating Operational Documents.
 
 ### What is Operational Documentation?
 Operational documentation is the written documentation necessary to operate a business. Examples include onboarding processes, reclamation policies, and documentation of internal, technical knowledge for manufacturing or troubleshooting. 
