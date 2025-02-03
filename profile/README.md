@@ -13,7 +13,7 @@ Automation bridges the gap between documentation and its use.
 ### Why is it important to automate Operational Documents?
 Automation enables a Single Place of Truth for both documentation and its use:
 - Content writers can visualize and test the logic of their documents at the time of composition.
-- Supporters can visually find the answer to an input query with the given documents in their daily business.
+- Supporters can visually find and prove the answer to an input query with the given documents in their daily business.
 - Technicians can integrate ad hoc Agentic Solutions into these documents to enable interactivity and automatic processing.
 
 ### Who are we?
